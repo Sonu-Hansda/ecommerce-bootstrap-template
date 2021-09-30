@@ -1,4 +1,6 @@
 # ecommerce-bootstrap-template
+This is the web template for an ecommerce app which have been designed with the help of bootstrap by taking the reference
+from the dribbble website .
 ### - Screenshot no : 1
 ![Image](https://raw.githubusercontent.com/Sonu-Hansda/ecommerce-bootstrap-template/main/scrshot1.png)
 ### - Screentshot no : 2
