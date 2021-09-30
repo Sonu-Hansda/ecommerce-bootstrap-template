@@ -1,7 +1,12 @@
 # ecommerce-bootstrap-template
 - Tools Used 
 - 
-- ![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg){width=50%}
+- ![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+- <style type="text/css">
+    img {
+        width: 250px;
+    }
+</style>
 
 This is the web template for an ecommerce app which have been designed with the help of bootstrap by taking the reference
 from the dribbble website .
